@@ -1,6 +1,6 @@
 # Stereo Vision and Visual Odometry Project
 
-A complete implementation of Stereo Depth Estimation and Visual Odometry using the KITTI dataset.
+
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
